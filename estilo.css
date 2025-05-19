@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #190b4a;
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+.destaque {
+    background-color: #011081;
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.destaque h2 {
+    font-size: 40px;
+}
+
+.destaque p {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+
+.sabores {
+    padding: 20px;
+    text-align: center;
+    background-color: #3529b9;
+    color: #FFFFFF;
+}
+
+.sabor {
+    color: #000000;
+    background-color: #9d9aff;
+    border: 1px solid #1f1080;
+    border-radius: 10px;
+    display: inline-block;
+    width: 180px;
+    margin: 10px;
+    padding: 15px;
+}
+.sabor img {
+    height: 80px;
+    border: 1px solid #1f1080;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #1c137a;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
